@@ -1,0 +1,138 @@
+#navbarNav{
+    margin-left: 921px;
+}
+#footcontainer{
+    background-color: black;
+    color: white;
+}
+#footicons{
+padding: 20px;
+font-size: 20px;
+}
+#about{
+    background-color: rgb(94, 24, 77);
+    color: white;
+}
+#specialities{
+    background-color:white;
+    color: black;
+}
+#gallery{
+    color: white;
+    background-color: rgb(54, 54, 54);
+}
+#winners{
+    background-color: white;
+}
+#testimonials{
+    background-color: rgb(255, 228, 184);
+    color: black;
+}
+#qa{
+
+    background-color: rgb(158, 23, 86);
+    color: white;
+}
+#readbook{
+    margin-left: -110px;
+}
+.grab{
+    font-size: x-large;
+    font-weight: 800;
+}
+.opp{
+    font-size: larger;
+    font-weight: 400;
+}
+.register{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 220px;
+    margin-left: 10px;
+}
+.registerbtn{
+    width: 170px;
+    color: rgb(94, 24, 77);
+    background-color: white;
+    font-weight: 550;
+    border-radius: 5px;
+    margin-top: 5px;
+}
+.spcilityspan{
+    font-weight: 800;
+    font-size: xx-large;
+}
+#dollor{
+    padding-top: 60px;
+    margin-left: 260px;
+    z-index: 9;
+}
+#robot{
+    padding-top: 40px;
+    margin-left: 100px;
+    z-index: 9;
+}
+#robotWord{
+    width: 150px;
+    background-color: white;
+    position: absolute;
+    color: black;
+    text-align: justify;
+    top: 285px;
+    left: 25px;
+    
+}
+#dollorword{
+    background-color: white;
+    color: black;
+    width: 220px;
+    position: absolute;
+    text-align: justify;
+    top: 255px;
+    right: -44px;
+}
+#gold{
+    z-index: 9;
+    padding-top: 160px;
+}
+#goldword{
+    background-color: white;
+    color: black;
+    width: 250px;
+    position: absolute;
+    text-align: justify;
+    top: 360px;
+    left: -80px;
+}
+#specialityword{
+    padding-top: 50px;
+}
+#gallerlorem{
+    text-align: justify;
+    width: 602px;
+}
+#preschool{
+    height: 365px;
+    padding-left: 115px;
+}
+#galleryaddress{
+    padding-top: 15px;
+}
+#gallerylorem2{
+    text-align: justify;
+    padding-left: 35px;
+    padding-right: 175px;
+}
+#winnercontain{
+    padding-top: 50px;
+}
+#testimonialshead{
+    font-size: larger;
+    font-weight: bolder;
+    color: rgb(129, 129, 129);;
+}
+#testmonialhead1{
+    font-size: large;
+}
+#btn2{
+    margin-left: 260px;
+}
